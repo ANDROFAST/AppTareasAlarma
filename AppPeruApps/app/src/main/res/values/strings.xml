@@ -14,11 +14,7 @@
 
     <string-array name="tipo_nota">
 
-        <item>Normal</item>
-
-        <item>Estándar</item>
-
-        <item>Urgente</item>
+        <item>Alarma</item>
 
         <item>Notificar</item>
 

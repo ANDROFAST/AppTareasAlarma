@@ -12,7 +12,7 @@ public class AlarmReceiver extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent)
     {
         String Title = intent.getStringExtra(context.getString(R.string.tituloo));
-        Intent x = new Intent(context, CrearAlerta.class);
+        Intent x = new Intent(context, GestionarAlerta.class);
         x.putExtra(context.getString(R.string.tituloo), Title);
         x.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         context.startActivity(x);

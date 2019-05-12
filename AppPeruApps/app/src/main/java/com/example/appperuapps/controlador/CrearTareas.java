@@ -82,14 +82,14 @@ public class CrearTareas extends AppCompatActivity {
         mSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             public void onItemSelected(
                     AdapterView parent, View view, int position, long id) {
-                if (id == 2) {
+                if (id == 0) {
                     showToast(getString(R.string.added_alert));
                     checkBoxAlarm.setEnabled(true);
                 } else {
                     checkBoxAlarm.setEnabled(false);
                     checkBoxAlarm.setChecked(false);
                 }
-                if (id == 3) {
+                if (id == 1) {
                     showToast(getString(R.string.notificacion));
                     checkboxnotify.setEnabled(true);
                 } else {

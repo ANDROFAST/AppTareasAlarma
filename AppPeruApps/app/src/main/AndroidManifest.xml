@@ -22,7 +22,7 @@
         <activity android:name=".controlador.CrearGrupoTareas"></activity>
         <receiver android:name=".controlador.AlarmReceiver" android:exported="true" android:enabled="true"> </receiver>
         <receiver android:name=".controlador.GestionarNotificacion" android:exported="true" android:enabled="true"> </receiver>
-        <activity android:theme="@android:style/Theme.Dialog" android:name=".controlador.CrearAlerta"> </activity>
+        <activity android:theme="@android:style/Theme.Dialog" android:name=".controlador.GestionarAlerta"> </activity>
     </application>
 
 </manifest>
