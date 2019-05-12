@@ -21,3 +21,6 @@ En este caso como es una app movil aqui se tomaria a todos los archivos XML
 -DATABASE-
 
 Este paquete contiene a la base de datos creada en SQLite la cual nos permitira almacenar todas las tareas y grupos de tareas.
+
+
+
