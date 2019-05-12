@@ -1,7 +1,6 @@
 # AppTareasAlarma
 Aplicacion que permite gestionar tareas
 
-Aplicacion que permite gestionar tareas
 
 Esta aplicacion tiene como ejercicio crear tareas con la opcion de avisar al usuario por medio de una notificacion o alarma.
 Se creo bajo bajo el patron MVC y contiene lo siguiente:
