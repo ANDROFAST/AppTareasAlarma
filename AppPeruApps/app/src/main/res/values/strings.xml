@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">AppPeruApps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="título">Prueba</string>
+
+    <string name="textview_date">Seleccione fecha</string>
+
+    <string name="detalle">Small Text</string>
+
+    <string name="alerta">Establecer alerta</string>
+
+    <string-array name="tipo_nota">
+
+        <item>Normal</item>
+
+        <item>Estándar</item>
+
+        <item>Urgente</item>
+
+        <item>Notificar</item>
+
+    </string-array>
+
+    <string name="note_type_text">Elija el tipo de notificacion:</string>
+
+    <string name="alerta_actividad">Alerta</string>
+
+    <string name="No_establecido">No establecido</string>
+
+    <string name="hora_minutos">HH:mm</string>
+
+    <string name="alerta_título">título</string>
+
+    <string name="establecer_notificacion">Establecer notificación</string>
+
+    <string name="added_alert">Se puede agregar una alerta</string>
+
+    <string name="notificacion">Puedes recibir notificaciones</string>
+
+    <string name="alerta_notifificacion">"Alerta: "</string>
+
+    <string name="alerta_titulo">título</string>
+
+    <string name="txt_tiempo">Ingrese el tiempo:</string>
+
+    <string name="alarmatext">Alerta: </string>
+
+    <string name="formateo_fecha">dd/MM/yyyy</string>
+
+    <string name="Alerta_No_Establecida">No_establecido</string>
+
+    <string name="ok">Ok</string>
+
+    <string name="titulo_mensaje">título</string>
+
+    <string name="tituloo">título</string>
+
+    <string name="alerta_contenido">alerta_contenido</string>
+</resources>

@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/nueva_tareas"
+        android:orderInCategory="100"
+        android:title="Nueva Tarea"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/nuevos_grupos"
+        android:orderInCategory="100"
+        android:title="Nuevo Grupo de Tareas"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/lista_grupos"
+        android:orderInCategory="100"
+        android:title="Lista Grupo de Tareas"
+        app:showAsAction="never" />
+
+</menu>
